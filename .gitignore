@@ -1,0 +1,12 @@
+# Public portfolio allowlist: refuse any future accidental source/test uploads.
+/*
+!/.gitignore
+!/README.md
+!/PROJECT_OVERVIEW.md
+!/RIGHTS_AND_USE.md
+!/RESEARCH_AND_DISCLOSURE.md
+!/images/
+/images/*
+!/images/apple-research-desktop.png
+!/images/research-workflow-desktop.png
+!/images/apple-research-mobile.png
